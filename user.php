@@ -1,9 +1,10 @@
 <?php
-echo $putih."[\33[91m!\033[97m]$red warning !!!".$t;
-echo $putih."[\033[93m!\033[97m]\033[93m Ini adalah program ilegal".$t;
-echo $putih."[\033[93m!\033[97m]\033[93m Resiko sepenuhnya di tanggung pengguna".$t;
+echo $putih."[$red!$putih]$red Warning !!!".$t;
+echo $putih."[$red!$putih]$kuning Ini adalah program ilegal".$t;
+echo $putih."[$red!$putih]$kuning Resiko sepenuhnya di tanggung pengguna".$t;
+$msgwe = $putih."[$biru>$putih]$red Subscribe$putih Channel Cocentz 😊".$t;
 $data= [
-'alianz.hamza',
+'alianz.hamza','Hamzah Ismail',
         ];
 $ydnews = ['tes',];
 $ttnews = ['tes',];
