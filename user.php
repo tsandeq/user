@@ -6,7 +6,7 @@ $msgwe = $putih."[$biru>$putih] Subscribe Channel Cocentz 😊".$t;
 $msgyd = $putih."[$red!$putih] Thank God for what God has given !! ".$t;
 $$msgtt = $putih."[$turkis*$putih]$ijo Enjoy your life !! ".$t;
 $data= [
-'alianz.hamza','Hamzah Ismail',
+'alianz.hamza','Hamzah Ismail','Lembu Gaming',
         ];
 $ydnews = ['tes',];
 $ttnews = ['tes',];
