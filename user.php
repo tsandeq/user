@@ -5,7 +5,7 @@ echo $putih."[$kuning!$putih] Resiko sepenuhnya di tanggung pengguna".$t;
 $msgwe = $putih."[$biru>$putih] Subscribe Channel Cocentz 😊".$t;
 $msgyd = $putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $$msgtt = $putih."[*] Enjoy Your Life !! ".$t;
-$msgveeu = $putih." [*] Enjoy Your Life !! ".$t;
+$msgveeu = $putih."[*] Enjoy Your Life !! ".$t;
 $msgads = $putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
 $data= [
  //w
