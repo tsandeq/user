@@ -7,7 +7,10 @@ $msgyd = $putih."[$red!$putih] Update [$red v.1.2$putih ] Premium ".$t;
 $$msgtt = $putih."[$turkis*$putih] Enjoy Your Life !! ".$t;
 $msgads = $putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
 $data= [
+ //w
 'alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
+'Adit yoo',
+
 //y
 'Kolek Cau','Melin Syg','Channel Cocentz',
         ];
