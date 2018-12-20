@@ -16,6 +16,8 @@ $data= [
 'Kolek Cau','Melin Syg','Channel Cocentz',
  //v
  'Ozil Oy','Alianz X Cybertz',
+ //t
+ 'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy',
         ];
 $ydnews = ['tes','premium',];
 $watcg = ['tes',];
