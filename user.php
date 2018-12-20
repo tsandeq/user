@@ -22,6 +22,7 @@ $data= [
 $ydnews = ['tes','premium',];
 $watcg = ['tes',];
 $veeu = ['tes',];
+$ttnews = ['tes',];
 
 
 
