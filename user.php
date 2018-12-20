@@ -9,7 +9,7 @@ $msgveeu = $putih."[*] Enjoy Your Life !! ".$t;
 $msgads = $putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
 $data= [
  //w
-'alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
+'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
 'Adit yoo',
 
 //y
