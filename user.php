@@ -10,7 +10,7 @@ $msgads = $putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bord
 $data= [
  //w
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
-'Adit yoo','Sunda {G.R.T','Channel Cocentz','Sesha mn','Mas Boot',
+'Adit yoo','Sunda {G.R.T','Channel Cocentz','Sesha mn','Mas Boot','Dex Zizah',
 
 //y
 
