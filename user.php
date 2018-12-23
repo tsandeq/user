@@ -11,6 +11,8 @@ $data= [
  //w
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
 'Adit yoo','Sunda {G.R.T','Channel Cocentz','Sesha mn','Mas Boot','Dex Zizah','Apriliana Apriliana',
+ '[ IRKOP ]','Martus Alae','Taleri Muloie','Lise Martis','Siti Berti','Slamet Fards','Vertiem Lolite',
+ 'Kilaer Kioae','Umam Tuner',
 
 //y
 
