@@ -13,7 +13,7 @@ $data= [
 'Adit yoo','Sunda {G.R.T','Channel Cocentz','Sesha mn','Mas Boot','Dex Zizah','Apriliana Apriliana',
 '[ IRKOP ]','Martus Alae','Taleri Muloie','Lise Martis','Siti Berti','Slamet Fards','Vertiem Lolite',
 'THE JOET','Yogi chiko','Jon Tendy','Panji Saputra','Michael Hermawan','Amelia Putri','Alexander axio',
-'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex siregar',
+'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex Siregar',
 
 //y
 
