@@ -25,7 +25,7 @@ $data= [
  'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy',
         ];
 $ydnews = ['tes','premium',];
-$watcg = ['tes',];
+$watch = ['tes',];
 $veeu = ['tes',];
 $toto = ['tes',];
 
