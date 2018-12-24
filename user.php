@@ -7,6 +7,11 @@ $msgyd = $putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Accoun
 $msgtt = $putih."[*] Enjoy Your Life !! ".$t;
 $msgveeu = $putih."[*] Enjoy Your Life !! ".$t;
 $msgads = $putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
+$yd_stat = false;
+$vip1= false;
+$weblock =[""];
+$ydblock = [""];
+$we_stat = true;
 $data= [
  //w
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
@@ -28,6 +33,7 @@ $ydnews = ['tes','premium',];
 $watch = ['tes',];
 $veeu = ['tes',];
 $toto = ['tes',];
+$yogo = ['tes','cocentz',];
 
 
 
