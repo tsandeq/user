@@ -14,7 +14,7 @@ $data= [
 '[ IRKOP ]','Martus Alae','Taleri Muloie','Lise Martis','Siti Berti','Slamet Fards','Vertiem Lolite',
 'THE JOET','Yogi Chiko','Jon Tendy','Panji Saputra','Michael Hermawan','Amelia Putri','Alexander Axio',
 'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex Siregar','Wendii Cimoot','Abdull',
-
+'Coki',
 //y
 
 
