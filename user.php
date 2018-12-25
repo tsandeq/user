@@ -24,6 +24,8 @@ $data= [
 
 
 'Kolek Cau','Melin Syg','Channel Cocentz',
+ //yg
+ 'Oblo Gaming2',
  //v
  'Ozil Oy','Alianz X Cybertz',
  //t
