@@ -8,6 +8,7 @@ $msgtt = $putih."[*] Enjoy Your Life !! ".$t;
 $msgveeu = $putih."[*] Enjoy Your Life !! ".$t;
 $msgads = $putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
 $stat_dony=true;
+$st_dony=true;
 $yd_stat = false;
 $vip1= false;
 $weblock =[""];
