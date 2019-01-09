@@ -23,9 +23,9 @@ $figlet= $ijo."
 ▒▓█    ▄ ▒██  ▀█▄  ▓██░ ██▓▒▒██▒▓██  ▀█ ██▒▒██░▄▄▄░
 ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▄█▓▒ ▒░██░▓██▒  ▐▌██▒░▓█  ██▓
 ▒ ▓███▀ ░ ▓█   ▓██▒▒██▒ ░  ░░██░▒██░   ▓██░░▒▓███▀▒
-░ ░▒ ▒  ░ ▒▒   ▓▒█░▒▓▒░ ░  ░░▓  ░ ▒░   ▒ ▒  ░▒   ▒
-[ Creator :$turkis Cocentz$putih | Kode :$turkis 0uhij9$putih
-[ Channel :$turkis Channel Cocentz$putih | xxxxxxxxx
+░ ░▒ ▒  ░ ▒▒   ▓▒█░▒▓▒░ ░  ░░▓  ░ ▒░   ▒ ▒  ░▒   ▒$putih
+[ Creator :$turkis Cocentz$putih | Kode :$turkis 0uhij9 |$red v.4.1.6$turkis Full ]$putih
+[ Channel :$turkis Channel Cocentz$putih | not for sale >_< ]$ijo
 ░  ▒     ▒   ▒▒ ░░▒ ░      ▒ ░░ ░░   ░ ▒░  ░   ░
 ░          ░   ▒   ░░        ▒ ░   ░   ░ ░ ░ ░   ░
 ░ ░            ░  ░          ░           ░       ░
