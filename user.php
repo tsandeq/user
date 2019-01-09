@@ -24,12 +24,13 @@ $figlet= $ijo."
 ▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▄█▓▒ ▒░██░▓██▒  ▐▌██▒░▓█  ██▓
 ▒ ▓███▀ ░ ▓█   ▓██▒▒██▒ ░  ░░██░▒██░   ▓██░░▒▓███▀▒
 ░ ░▒ ▒  ░ ▒▒   ▓▒█░▒▓▒░ ░  ░░▓  ░ ▒░   ▒ ▒  ░▒   ▒
-  ░  ▒     ▒   ▒▒ ░░▒ ░      ▒ ░░ ░░   ░ ▒░  ░   ░
+[ Creator :$turkis Cocentz$putih | Kode :$turkis 0uhij9$putih
+[ Channel :$turkis Channel Cocentz$putih | xxxxxxxxx
+░  ▒     ▒   ▒▒ ░░▒ ░      ▒ ░░ ░░   ░ ▒░  ░   ░
 ░          ░   ▒   ░░        ▒ ░   ░   ░ ░ ░ ░   ░
 ░ ░            ░  ░          ░           ░       ░
 ░".$t;
-$putih."Creator :$ijo Cocentz ".$t;
-$putih."Channel :$ijo Channel Cocentz ".$t;
+
 $data= [
  //w
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
