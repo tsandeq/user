@@ -9,7 +9,7 @@ $baca_plus=$red."
  ------------------------------------------
 [ Creator by :$ijo Cocentz$putih | Kode :$ijo F2YPBIHf0h$putih ]
  ------------------------------------------".$t;
-$msg_baca=$putih."[$red!$putih] Official Channel YouTube : Channel Cocentz 😉".$t;
+$msg_baca=$putih."[$red!$putih] Official Channel YouTube 👉 Channel Cocentz 😉".$t;
 $msg_plus=$putih."[".$biru."-".$putih."] Kreasikan Copasmu,Jangan Copas Kreasiku.!!".$t;
 $stat_baca=true;
  
