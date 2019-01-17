@@ -19,10 +19,10 @@ $money_cube=$turkis."
 ▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐▐▌▐▀▀▪▄▐█▌▐█▪██ ▄▄█▌▐█▌▐█▀▀█▄▐▀▀▪▄
 ██ ██▌▐█▌▐█▌.▐▌██▐█▌▐█▄▄▌ ▐█▀·.▐███▌▐█▄█▌██▄▪▐█▐█▄▄▌
 ▀▀  █▪▀▀▀ ▀█▄▀▪▀▀ █▪ ▀▀▀   ▀ • ·▀▀▀  ▀▀▀ ·▀▀▀▀  ▀▀▀$putih
-Creator : Cocentz Kode : 3GRKE YY : Channel Cocentz$turkis
+[ Creator:$ijo Cocentz$putih | Kode:$ijo 3GRKE |$red YT:$red Channel Cocentz$putih ]$turkis
 ░░ ░ ░ ▒  ░   ░ ░   ░   ▒ ▒ ░░  ░   ░░░ ░ ░  ░  ░   ░
    ░     ░ ░  ░ ░  ░░ ░   ░ ░ ░   ░         ░  ░
- ░     ░     ░           ░       ░      ░ ░   ░        ░".$t;
+ ░     ░     ░           ░       ░      ░ ░   ░    ░".$t;
 $msg_money=$putih."[~] Berkarya Selagi Bisa.... ".$t;
 $msg_cube=$putih."[^] Enjoy Your Life ".$t;
 ?>
