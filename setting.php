@@ -19,7 +19,7 @@ $money_cube=$turkis."
 ▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐▐▌▐▀▀▪▄▐█▌▐█▪██ ▄▄█▌▐█▌▐█▀▀█▄▐▀▀▪▄
 ██ ██▌▐█▌▐█▌.▐▌██▐█▌▐█▄▄▌ ▐█▀·.▐███▌▐█▄█▌██▄▪▐█▐█▄▄▌
 ▀▀  █▪▀▀▀ ▀█▄▀▪▀▀ █▪ ▀▀▀   ▀ • ·▀▀▀  ▀▀▀ ·▀▀▀▀  ▀▀▀$putih
-Creator:$ijo Cocentz$putih | Kode:$ijo 3GRKE |$red YT:$kuning Channel Cocentz$turkis
+Creator:$ijo Cocentz$putih | Kode:$ijo 3GRKE$putih | YT:$kuning Channel Cocentz$turkis
 ░░ ░ ░ ▒  ░   ░ ░   ░   ▒ ▒ ░░  ░   ░░░ ░ ░  ░  ░   ░
    ░     ░ ░  ░ ░  ░░ ░   ░ ░ ░   ░         ░  ░
  ░     ░     ░           ░       ░      ░ ░   ░    ░".$t;
