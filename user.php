@@ -2,7 +2,7 @@
 echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[$ijo!$putih] Ini adalah program ilegal".$t;
 echo $putih."[$kuning!$putih] Resiko sepenuhnya di tanggung pengguna".$t;
-$msgwe=$putih."[$biru>$putih] Subscribe Channel Cocentz 😊".$t;
+$msgwe=$putih."[$red!$putih] Update News Script VIP$red v.2.0$putih".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
 $msgveeu=$putih."[*] Enjoy Your Life !! ".$t;
