@@ -32,7 +32,7 @@ $figlet= $ijo."
 $data= [
  //we
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
-'Adit yoo','Sunda {G.R.T','Channel Cocentz','Sesha mn','Mas Boot','Dex Zizah','Apriliana Apriliana',
+'Adit yoo','Sunda G.R.T','Channel Cocentz','Sesha mn','Mas Boot','Dex Zizah','Apriliana Apriliana',
 '[ IRKOP ]','Martus Alae','Taleri Muloie','Lise Martis','Siti Berti','Slamet Fards','Vertiem Lolite',
 'THE JOET','Yogi Chiko','Jon Tendy','Panji Saputra','Michael Hermawan','Amelia Putri','Alexander Axio',
 'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex Siregar','Wendii Cimoot','Abdull',
