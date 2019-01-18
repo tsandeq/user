@@ -5,7 +5,6 @@ echo $putih."[$kuning!$putih] Resiko sepenuhnya di tanggung pengguna".$t;
 $msgwe=$putih."[$red!$putih] Update News Script VIP$red v.2.0$putih".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
-$msgveeu=$putih."[*] Enjoy Your Life !! ".$t;
 $msgads=$putih."[$biru>$putih] Subscribe Channel YT Channel Cocentz & adi bordir 😁".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
@@ -15,20 +14,7 @@ $vip1=false;
 $weblock=[""];
 $ydblock=[""];
 $we_stat=true;
-$stat_cp= true;
-$msgcp =$putih."[!] enjoy your life";
-$figlet= $ijo."
-▄████▄   ▄▄▄       ██▓███   ██▓ ███▄    █   ▄████
-▒██▀ ▀█  ▒████▄    ▓██░  ██▒▓██▒ ██ ▀█   █  ██▒ ▀█▒
-▒▓█    ▄ ▒██  ▀█▄  ▓██░ ██▓▒▒██▒▓██  ▀█ ██▒▒██░▄▄▄░
-▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▄█▓▒ ▒░██░▓██▒  ▐▌██▒░▓█  ██▓
-▒ ▓███▀ ░ ▓█   ▓██▒▒██▒ ░  ░░██░▒██░   ▓██░░▒▓███▀▒
-░ ░▒ ▒  ░ ▒▒   ▓▒█░▒▓▒░ ░  ░░▓  ░ ▒░   ▒ ▒  ░▒   ▒$putih
-[ Creator :$turkis Cocentz$putih | Kode :$turkis 0uhij9$putih |$red v.4.1 Full$putih ]$ijo
-░  ▒     ▒   ▒▒ ░░▒ ░      ▒ ░░ ░░   ░ ▒░  ░   ░
-░          ░   ▒   ░░        ▒ ░   ░   ░ ░ ░ ░   ░
-░ ░            ░  ░          ░           ░       ░
-░".$t;
+
 $data= [
  //we
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
@@ -52,4 +38,4 @@ $data= [
 $ydnews = ['tes','premium',];
 $watch = ['tes',];
 $veeu = ['tes',];
-$toto = ['tes',];
+$cword= ['tes','premium',];
