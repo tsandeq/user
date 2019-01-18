@@ -22,7 +22,7 @@ $data= [
 '[ IRKOP ]','Martus Alae','Taleri Muloie','Lise Martis','Siti Berti','Slamet Fards','Vertiem Lolite',
 'THE JOET','Yogi Chiko','Jon Tendy','Panji Saputra','Michael Hermawan','Amelia Putri','Alexander Axio',
 'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex Siregar','Wendii Cimoot','Abdull',
-'Coki','behel.uje10@gmail.com','M.Khoirul Anwar','M. Khoirul Anwar','Belut Salmon',
+'Coki','behel.uje10@gmail.com','M.Khoirul Anwar','M. Khoirul Anwar','Belut Salmon','Selvi Ana',
 //y
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '23','24','25','26','27','28','29','30',
