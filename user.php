@@ -38,7 +38,7 @@ $data= [
  //v
  'Ozil Oy','Alianz X Cybertz',
  //t
- 'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy',
+ 'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy','Sunda {G.R.T}',
         ];
 $ydnews = ['tes','premium',];
 $watch = ['tes',];
