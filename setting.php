@@ -25,13 +25,11 @@ Creator:$ijo Cocentz$putih | Kode:$ijo 3GRKE$putih | YT:$kuning Channel Cocentz$
  ░     ░     ░           ░       ░      ░ ░   ░    ░".$t;
 $msg_money=$putih."[~] Berkarya Selagi Bisa.... ".$t;
 $msg_cube=$putih."[^] Enjoy Your Life ".$t;
-$ccu=$red."
-──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────
-──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────$pth
+$ccu= $red."
+──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
+──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
 ──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
- Creator :$ijo Cocentz$pth | Kode Invite :$ijo TNQ7OH$pth
-─────────────────────────────────────────"$t;
-
-$msg_ccu=$ijo."[^] Official Yt Channel Cocentz";
+creator: ".$ijo."adidoank ".$pth."|| chanel: ".$ijo."adi bordir".$t;
+$msg_ccu=$ijo."[•] official chanel adi bordir dan sungging";
 $stat_ccu=true;
 ?>
