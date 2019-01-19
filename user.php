@@ -26,9 +26,11 @@ $data= [
  'Andri Mardat','KOCAK BGT','Papla Aqpkla','Muhammad pan','Irfan N','Becrotfr','Muhammad Khairil','Nando','Marsha',
  'Silva','Fardan','Nurdinn','C. DROID','Vika Cu','cocis','Gantari belantara putri','Reffer','Khomsun Bungsu',
  'ria syafrianti','Ahmad Rianto','slamet budi','Al Izza Anwar Ibrahim','Aziz Moh','M A R I U S Z','MARIUSZ',
- 'Herideha','nyamukabate@gmail.com','Remon Andy',
+ 'Herideha','nyamukabate@gmail.com','Remon Andy','Roby Sinambela',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '23','24','25','26','27','28','29','30',
+ '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
+ '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
  '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
  'Kolek Cau','Melin Syg','Channel Cocentz',
  //yg
