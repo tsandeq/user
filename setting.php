@@ -29,7 +29,7 @@ $ccu= $red."
 ──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
 ──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
 ──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
-creator: ".$ijo."adidoank ".$pth."|| chanel: ".$ijo."adi bordir".$t;
-$msg_ccu=$ijo."[•] official chanel adi bordir dan sungging";
+Creator : ".$ijo."Cocentz ".$pth."|| Kode Invite : ".$ijo."TNQ7OH".$t;
+$msg_ccu=$ijo."[^] Official YT Channel Cocentz";
 $stat_ccu=true;
 ?>
