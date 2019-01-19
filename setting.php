@@ -29,7 +29,7 @@ $ccu=$red."
 ──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────$pth
 ──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
 ──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
-Creator :$ijo Cocentz | Kode Invit :$ijo TNQ7OH".$t;
+Creator :$ijo Cocentz$pth | Kode Invite :$ijo TNQ7OH".$t;
 $msg_ccu=$ijo."[^] Official Yt Channel Cocentz";
 $stat_ccu=true;
 ?>
