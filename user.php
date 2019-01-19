@@ -24,7 +24,7 @@ $data= [
 'Kilaer Kioae','Umam Tuner','Alfa Jon','Jon Aldi','Dewi Septiani','Alex Siregar','Wendii Cimoot','Abdull',
 'Coki','behel.uje10@gmail.com','M.Khoirul Anwar','M. Khoirul Anwar','Belut Salmon','Selvi Ana','Syaifdin Joery',
  'Andri Mardat','KOCAK BGT','Papla Aqpkla','Muhammad pan','Irfan N','Becrotfr','Muhammad Khairil','Nando','Marsha',
- 'Silva','Fardan','Nurdinn','C. DROID','Vika Cu','cocis','Gantari belantara putri',
+ 'Silva','Fardan','Nurdinn','C. DROID','Vika Cu','cocis','Gantari belantara putri','Reffer',
 //y
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '23','24','25','26','27','28','29','30',
