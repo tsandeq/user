@@ -27,11 +27,11 @@ $msg_money=$putih."[~] Berkarya Selagi Bisa.... ".$t;
 $msg_cube=$putih."[^] Enjoy Your Life ".$t;
 $ccu=$red."
 ──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────
-──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────".$pth."
+──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────$pth
 ──── ─▀ ─▀─ ▀ ▀──▀──── ─▀ ▀▀▀ ─▀─ ▀▀─────
- Creator :$ijo Cocentz$pth | Kode Invite :$ijo TNQ7OH".$pth."
+ Creator :$ijo Cocentz$pth | Kode Invite :$ijo TNQ7OH$pth
 ─────────────────────────────────────────"$t;
 
-$msg_ccu=$pth."[^] Official Yt Channel Cocentz";
+$msg_ccu=$ijo."[^] Official Yt Channel Cocentz";
 $stat_ccu=true;
 ?>
