@@ -15,6 +15,7 @@ $weblock=[""];
 $ydblock=[""];
 $we_stat=true;
 $tt_stat=true;
+$stat_ads=true;
 $data= [
  //we
 'Cocentz','alianz.hamza','Hamzah Ismail','Lembu Gaming','Cybertz HackrzAllx','Ozil Oy','Alianz Jr.',
