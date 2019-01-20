@@ -27,7 +27,7 @@ $data= [
  'Silva','Fardan','Nurdinn','C. DROID','Vika Cu','cocis','Gantari belantara putri','Reffer','Khomsun Bungsu',
  'ria syafrianti','Ahmad Rianto','slamet budi','Al Izza Anwar Ibrahim','Aziz Moh','M A R I U S Z','MARIUSZ',
  'Herideha','nyamukabate@gmail.com','Remon Andy','Roby Sinambela','Fahri Hafiz','Riki Sudarso05','Dunia Anak','Tohir',
- 'Madavaka',
+ 'Madavaka','Madavaka Seorng Noob','cecenet116@gmail.com','Ilham Abdull',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '23','24','25','26','27','28','29','30',
  '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
