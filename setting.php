@@ -25,7 +25,7 @@ Creator:$ijo Cocentz$pth | Code:$ijo 3GRKE$putih |$red YT$pth:$red Channel Cocen
    ░     ░ ░  ░ ░  ░░ ░   ░ ░ ░   ░         ░  ░
  ░     ░     ░           ░       ░      ░ ░   ░    ░".$t;
 $msg_money=$pth."[~] Berkarya Selagi Bisa .... ".$t;
-$msg_cube=$pth."[^] Percayalah dengan hidup anda ".$t;
+$msg_cube=$pth."[^] Percayalah dengan diri sendiri".$t;
 $ccu= $red."
 ──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
 ──── █─ █─█ █ █─▀█──── █─ █─▄ █─█ █▀█────
