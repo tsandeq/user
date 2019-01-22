@@ -13,6 +13,7 @@ $msg_baca=$putih."[$red!$putih] Official Channel YouTube 👉 Channel Cocentz �
 $msg_plus=$putih."[".$biru."-".$putih."] Kreasikan Copasmu,Jangan Copas Kreasiku.!!".$t;
 $stat_baca=true;
 /* Money cube */
+$stat_mc=true;
 $money_cube=$tr."
 • ▌ ▄ ·.        ▐ ▄ ▄▄▄ . ▄· ▄▌ ▄▄· ▄• ▄▌▄▄▄▄· ▄▄▄ .
 ·██ ▐███▪▪     •█▌▐█▀▄.▀·▐█▪██▌▐█ ▌▪█▪██▌▐█ ▀█▪▀▄.▀·
