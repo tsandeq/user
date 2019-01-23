@@ -13,19 +13,19 @@ $msg_baca=$putih."[$red!$putih] Official Channel YouTube 👉 Channel Cocentz �
 $msg_plus=$putih."[".$biru."-".$putih."] Kreasikan Copasmu,Jangan Copas Kreasiku.!!".$t;
 $stat_baca=true;
 /* Money cube */
-$stat_mc=false;
-$money_cube=$tr."
+$stat_mc=true;
+$mc=$tr."
 • ▌ ▄ ·.        ▐ ▄ ▄▄▄ . ▄· ▄▌ ▄▄· ▄• ▄▌▄▄▄▄· ▄▄▄ .
 ·██ ▐███▪▪     •█▌▐█▀▄.▀·▐█▪██▌▐█ ▌▪█▪██▌▐█ ▀█▪▀▄.▀·
 ▐█ ▌▐▌▐█· ▄█▀▄ ▐█▐▐▌▐▀▀▪▄▐█▌▐█▪██ ▄▄█▌▐█▌▐█▀▀█▄▐▀▀▪▄
 ██ ██▌▐█▌▐█▌.▐▌██▐█▌▐█▄▄▌ ▐█▀·.▐███▌▐█▄█▌██▄▪▐█▐█▄▄▌
 ▀▀  █▪▀▀▀ ▀█▄▀▪▀▀ █▪ ▀▀▀   ▀ • ·▀▀▀  ▀▀▀ ·▀▀▀▀  ▀▀▀$pth
-Creator:$ijo Cocentz$pth | Code:$ijo 3GRKE$putih |$red YT$pth:$red Channel Cocentz$tr
+Creator:$ijo Cocentz$pth | Code:$ijo 3GRKE$pth |$red YT$pth:$red Channel Cocentz$tr
 ░░ ░ ░ ▒  ░   ░ ░   ░   ▒ ▒ ░░  ░   ░░░ ░ ░  ░  ░  ░
    ░     ░ ░  ░ ░  ░░ ░   ░ ░ ░   ░         ░  ░
  ░     ░     ░           ░       ░      ░ ░   ░    ░".$t;
-$msg_money=$pth."[~] Berkarya Selagi Bisa .... ".$t;
-$msg_cube=$pth."[^] Percayalah dengan diri sendiri".$t;
+$msgm=$pth."[~] Berkarya Selagi Bisa .... ".$t;
+$msgc=$pth."[^] Percayalah dengan diri sendiri".$t;
 
 $ccu= $red."
 ──── ▄▀ ▄▀▄ ▀ █▄─█──── ▄▀ █── █─█ █▀▄────".$pth."
