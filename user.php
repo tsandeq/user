@@ -32,7 +32,7 @@ $data= [
 'Irfan Pay','Irfan Ws','Bang jon','Irfan xns','Irfan Admob','Irfan Ml','irfan warspears','Irfan gaming','tika seksi',
 'Bang Jon','bang jon','Irfan Admob','rico dwiwarsa','Dian Budi Rachmadhani','dhanidbr','nuyulterakir@gmail.com',
 'jokotiing@gmail.com','Yuna','Nempo Gakueun','Rolando Gonz','Aziz Kha','michael johan','Necrolizer','mike xza',
-'Max Wolo','Max wolo','Mardoni Muhamad','Daniel Nyu','Riky muhamad',
+'Max Wolo','Max wolo','Mardoni Muhamad','Daniel Nyu','Riky muhamad','iwan muler',
  '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '23','24','25','26','27','28','29','30',
  '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
