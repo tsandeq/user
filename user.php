@@ -1,10 +1,10 @@
 <?php
 echo $putih."[$red!$putih]$red Warning !!!".$t;
-echo $putih."[🇲🇨] Language Indonesia".$t;
+echo $putih."[".$red."🇲🇨".$pth."] Language Indonesia".$t;
 echo $putih."[$ijo!$putih] Ini adalah program ilegal".$t;
 echo $putih."[$kuning!$putih] Resiko sepenuhnya di tanggung pengguna".$t;
 echo $putih."[$red!$putih]$red Warning !!!".$t;
-echo $putih."[🇬🇧] Language English".$t;
+echo $putih."[".$biru."🇬🇧$".$putih."] Language English".$t;
 echo $putih."[$ijo!$putih] This is an illegal program".$t;
 echo $putih."[$kuning!$putih] Risk fully borne by the user".$t;
 
