@@ -34,4 +34,14 @@ $ccu= $red."
 Creator : ".$ijo."Cocentz ".$pth."|| Kode Invite : ".$ijo."TNQ7OH".$t;
 $msg_ccu=$ijo."[^] Official YT Channel Cocentz";
 $stat_ccu=true;
+
+$flash=$red."
+  _____ _           _       ____
+ |  ___| | __ _ ___| |__   / ___| ___
+ | |_  | |/ _` / __| '_ \ | |  _ / _ \
+ |  _| | | (_| \__ \ | | || |_| | (_) |
+ |_|   |_|\__,_|___/_| |_| \____|\___/$pth
+Creator :$ijo Cocentz$pth | YT :$ijo Channel Cocentz".$t;
+$msg_flash=$pth."[".$ijo."#".$pth."]$tr flash go";
+$stat_flash=true;
 ?>
