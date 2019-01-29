@@ -45,4 +45,14 @@ Creator :$ijo Cocentz$pth | Code :$ijo F2iFo93WpV".$t;
 $msg_flash=$pth."[".$ijo."#".$pth."] flash go bot";
 $msg_go=$pth."[".$red.">".$pth."] Official Youtube =>$red Channel Cocentz".$t;
 $stat_flash=true;
+
+$mfix=$pk."
+ __  __  __ _        _  ___
+|  \/  |/ _(_)_  __ | |/ (_)_ __   __ _
+| |\/| | |_| \ \/ / | ' /| | '_ \ / _` |
+| |  | |  _| |>  <  | . \| | | | | (_| |
+|_|  |_|_| |_/_/\_\ |_|\_\_|_| |_|\__, |$pth
+Creator: Cocentz | Code: fhp8dgx$pk |___/
+$msg_mfix=[•] Use my code : fhp8dgxs";
+$st_mfix=true;
 ?>
