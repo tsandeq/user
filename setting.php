@@ -52,7 +52,7 @@ $mfix=$pk."
 | |\/| | |_| \ \/ / | ' /| | '_ \ / _` |
 | |  | |  _| |>  <  | . \| | | | | (_| |
 |_|  |_|_| |_/_/\_\ |_|\_\_|_| |_|\__, |$pth
- Creator: Cocentz | Code: fhp8dgx$pk |___/
-$msg_mfix=[•] Use my code : fhp8dgxs";
+ Creator: Cocentz | Code: fhp8dgx$pk |___/".$t;
+$msg_mfix=."[•] Use my code : fhp8dgxs";
 $st_mfix=true;
 ?>
