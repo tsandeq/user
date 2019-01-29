@@ -36,12 +36,13 @@ $msg_ccu=$ijo."[^] Official YT Channel Cocentz";
 $stat_ccu=true;
 
 $flash=$red."
-  _____ _           _       ____
- |  ___| | __ _ ___| |__   / ___| ___
- | |_  | |/ _` / __| '_ \ | |  _ / _ \
- |  _| | | (_| \__ \ | | || |_| | (_) |
- |_|   |_|\__,_|___/_| |_| \____|\___/$pth
-Creator :$ijo Cocentz$pth | YT :$ijo Channel Cocentz".$t;
-$msg_flash=$pth."[".$ijo."#".$pth."]$tr flash go";
+ _____ _           _       ____
+|  ___| | __ _ ___| |__   / ___| ___
+| |_  | |/ _` / __| '_ \ | |  _ / _ \
+|  _| | | (_| \__ \ | | || |_| | (_) |
+|_|   |_|\__,_|___/_| |_| \____|\___/$pth
+Creator :$ijo Cocentz$pth | Code :$ijo F2iFo93WpV".$t;
+$msg_flash=$pth."[".$ijo."#".$pth."] flash go bot";
+$msg_go=$pth."[".$red.">".$pth."] Official Youtube =>$red Channel Cocentz".$t;
 $stat_flash=true;
 ?>
