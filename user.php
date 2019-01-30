@@ -1,11 +1,11 @@
 <?php
 echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[🇲🇨] Language Indonesia".$t;
-echo $putih."[$red!$putih] Ini adalah program ilegal".$t;
-echo $putih."[$red!$putih] Resiko sepenuhnya di tanggung pengguna".$t;
+echo $putih."[•] Ini adalah program ilegal".$t;
+echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
 echo $putih."[🇬🇧] Language English".$t;
-echo $putih."[$red!$putih] This is an illegal program".$t;
-echo $putih."[$red!$putih] Risk fully borne by the user".$t;
+echo $putih."[•] This is an illegal program".$t;
+echo $putih."[•] Risk fully borne by the user".$t;
 
 $msgwe=$putih."[".$ijo."•".$putih."] Update News Script Watch&Earn VIP+$red v.2.0$putih".$t;
 $msgyd=$putih."[$red!$putih] Update [$red v.1.2$putih ] Premium & Multi Account".$t;
@@ -40,20 +40,21 @@ $data= [
 'Max Wolo','Max wolo','Mardoni Muhamad','Daniel Nyu','Riky muhamad','iwan muler','vijay jyoti','Vijay Kumar','HafIizh',
 'Hafiizh','fadhyl ramadana','Daniel Nguyễn','Gana dinero A través de páginas','Nhez Lhyne','Adi Betet','fadhyl ramad',
 'ime meme','Ilmu Apa Aja','Yogi Yoo','Iván Piola','Khamid Lillah',
- '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
+'1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '23','24','25','26','27','28','29','30',
- '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
- '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
- '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
- 'Kolek Cau','Melin Syg','Channel Cocentz',
- //yg
- 'Oblo Gaming2',
- //v
- 'Ozil Oy','Alianz X Cybertz',
- //t
- 'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy','Sunda {G.R.T}',
+'1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
+'1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
+'1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
+'Kolek Cau','Melin Syg','Channel Cocentz',
+//yg
+'Oblo Gaming2',
+//v
+'Ozil Oy','Alianz X Cybertz',
+//t
+'Cocentz','Hamzah Ismail','Kolek Cau','Ozil Oy','Sunda {G.R.T}',
         ];
 $ydnews = ['tes','premium',];
 $watch = ['tes',];
 $veeu = ['tes',];
 $cword= ['tes','premium',];
+$yogo=['tes','not for sale',];
