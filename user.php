@@ -41,7 +41,7 @@ $data= [
 'Hafiizh','fadhyl ramadana','Daniel Nguyễn','Gana dinero A través de páginas','Nhez Lhyne','Adi Betet','fadhyl ramad',
 'ime meme','Ilmu Apa Aja','Yogi Yoo','Iván Piola','Khamid Lillah','For Salepls','phukhopt2@gmqil.com','Muhammad Annadzmy',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
-'Andrean92','Nikno Acil','Daftar Terbaru','Kun Aji',
+'Andrean92','Nikno Acil','Daftar Terbaru','Kun Aji','zbq ko',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
 '1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','22',
